@@ -1,0 +1,23 @@
+{
+  "name": "Semana3-S3-Exercicios-Reprograma",
+  "version": "1.0.0",
+  "description": "Aula 3 - Funções, escopo e loops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/-Semana3-S3-Exercicios-Reprograma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/-Semana3-S3-Exercicios-Reprograma/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/-Semana3-S3-Exercicios-Reprograma#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
