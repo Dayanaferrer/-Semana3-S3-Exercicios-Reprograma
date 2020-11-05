@@ -1,3 +1,3 @@
-# Semana3-Exercicios3-Reprograma
+# Reprograma Semana 3 -Funções, escopo e loops;
 
->>> Aula 3 - Funções, escopo e loops
+
